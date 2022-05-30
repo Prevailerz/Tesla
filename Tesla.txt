@@ -1,4 +1,6 @@
 echo "Welcome to Tesla"
 echo "Please select your choice car"
 echo "Tell us your location?"
- 
+ echo "I want a Model C"
+ echo I need updated version installation on the new model
+ echo "Release Version 7 ASAP"
