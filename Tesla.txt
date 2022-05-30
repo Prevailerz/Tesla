@@ -1,0 +1,4 @@
+echo "Welcome to Tesla"
+echo "Please select your choice car"
+echo "Tell us your location?"
+ 
